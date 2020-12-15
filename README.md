@@ -1,2 +1,0 @@
-# beginhwapp
-Begin app
